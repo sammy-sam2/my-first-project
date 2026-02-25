@@ -1,5 +1,4 @@
 /* * Program: Simple Calculator
- * Author: [Your Name]
  * Description: Performs basic math operations based on user input.
  */
 
@@ -51,4 +50,5 @@ int main() {
     printf("Result: %.2lf %c %.2lf = %.2lf\n", num1, operator, num2, result);
 
     return 0; // Success!
+
 }
